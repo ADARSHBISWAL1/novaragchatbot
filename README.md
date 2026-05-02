@@ -1,5 +1,8 @@
 # 🤖 Nove - Nova's Enhanced Virtual Assistant
 
+
+active link - https://novaragchatbot-cde.streamlit.app
+
 A sophisticated RAG (Retrieval-Augmented Generation) chatbot that provides intelligent responses based on a comprehensive knowledge base.
 
 ## 🌟 Features
