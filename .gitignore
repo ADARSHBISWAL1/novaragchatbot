@@ -70,6 +70,7 @@ chatbot_dataset_improved.json
 novaspark_improved.json
 product_launches_improved.json
 nova_faq_dataset.pdf
+rag_dataset_health.json
 
 # Temporary files
 *.tmp

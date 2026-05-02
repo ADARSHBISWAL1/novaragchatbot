@@ -1,0 +1,212 @@
+[
+    {
+        "id": "health_001",
+        "question": "What are the common symptoms of Type 2 Diabetes?",
+        "answer": "Common symptoms of Type 2 Diabetes include frequent urination, increased thirst, unexplained weight loss, fatigue, blurred vision, slow-healing sores, and frequent infections. Some people also experience darkened skin in body creases. These symptoms develop gradually and should be evaluated by a healthcare professional.",
+        "category": "symptoms",
+        "keywords": ["diabetes", "type 2", "symptoms", "blood sugar", "hyperglycemia"]
+    },
+    {
+        "id": "health_002",
+        "question": "What symptoms indicate a heart attack?",
+        "answer": "Heart attack symptoms include chest pain or pressure, pain radiating to the arm, neck, or jaw, shortness of breath, cold sweats, nausea, and lightheadedness. Women may experience atypical symptoms like fatigue and back pain. These are emergency symptoms requiring immediate medical attention.",
+        "category": "symptoms",
+        "keywords": ["heart attack", "chest pain", "cardiac", "emergency"]
+    },
+    {
+        "id": "health_003",
+        "question": "What are the early signs of depression?",
+        "answer": "Early signs of depression include persistent sadness or emptiness, loss of interest in activities once enjoyed, changes in appetite or weight, sleep disturbances, fatigue, difficulty concentrating, and feelings of worthlessness. Professional help is recommended if these symptoms persist.",
+        "category": "mental_health",
+        "keywords": ["depression", "mental health", "mood disorder", "sadness"]
+    },
+    {
+        "id": "health_004",
+        "question": "What are signs of dehydration?",
+        "answer": "Signs of dehydration include dry mouth, dark yellow urine, decreased urination, headache, dizziness, fatigue, dry skin, and rapid heartbeat. Severe dehydration can cause confusion and fainting. Prevention includes adequate fluid intake throughout the day.",
+        "category": "symptoms",
+        "keywords": ["dehydration", "fluids", "water intake", "electrolytes"]
+    },
+    {
+        "id": "health_005",
+        "question": "What symptoms are associated with hypothyroidism?",
+        "answer": "Hypothyroidism symptoms include fatigue, weight gain, cold sensitivity, constipation, dry skin, hair thinning, slowed heart rate, muscle weakness, depression, and memory problems. This condition results from an underactive thyroid gland and requires medical evaluation.",
+        "category": "symptoms",
+        "keywords": ["hypothyroidism", "thyroid", "hormones", "metabolism"]
+    },
+    {
+        "id": "health_006",
+        "question": "What is Hypertension and how is it diagnosed?",
+        "answer": "Hypertension (high blood pressure) is a condition where blood pressure consistently reads at elevated levels. It is diagnosed through repeated blood pressure measurements. Often called a 'silent killer' as it typically has no symptoms but can lead to serious health complications if untreated.",
+        "category": "conditions",
+        "keywords": ["hypertension", "blood pressure", "cardiovascular", "diagnosis"]
+    },
+    {
+        "id": "health_007",
+        "question": "What is Asthma and what triggers it?",
+        "answer": "Asthma is a chronic respiratory disease causing airway inflammation and narrowing, leading to wheezing, breathlessness, and coughing. Common triggers include allergens, air pollution, cold air, exercise, respiratory infections, and stress. Management includes avoiding triggers and proper medication use.",
+        "category": "conditions",
+        "keywords": ["asthma", "respiratory", "breathing", "allergens"]
+    },
+    {
+        "id": "health_008",
+        "question": "What is Alzheimer's disease?",
+        "answer": "Alzheimer's disease is a progressive neurological disorder that affects memory and cognitive function. It is the most common cause of dementia. Symptoms worsen over time, affecting language, problem-solving, and eventually basic daily functions. Early diagnosis and support are important.",
+        "category": "conditions",
+        "keywords": ["alzheimers", "dementia", "memory loss", "neurological"]
+    },
+    {
+        "id": "health_009",
+        "question": "What is PCOS (Polycystic Ovary Syndrome)?",
+        "answer": "PCOS is a hormonal disorder in women characterized by irregular menstrual periods, excess androgen levels, and polycystic ovaries. It can cause various symptoms and requires medical management. Regular healthcare monitoring is recommended for those with this condition.",
+        "category": "conditions",
+        "keywords": ["PCOS", "hormones", "women's health", "fertility"]
+    },
+    {
+        "id": "health_010",
+        "question": "What is Chronic Kidney Disease (CKD)?",
+        "answer": "CKD is a long-term condition where the kidneys gradually lose their filtering ability. It progresses through stages based on kidney function. Common causes include diabetes and hypertension. Early detection and management can help slow progression. Medical supervision is essential.",
+        "category": "conditions",
+        "keywords": ["CKD", "kidney disease", "renal", "chronic"]
+    },
+    {
+        "id": "health_011",
+        "question": "What are common treatments for high blood pressure?",
+        "answer": "High blood pressure treatment includes lifestyle changes like low-sodium diet, regular exercise, and reducing alcohol intake. Various medications may be prescribed by healthcare providers. Regular monitoring and follow-up with healthcare professionals is essential for effective management.",
+        "category": "treatments",
+        "keywords": ["hypertension treatment", "lifestyle", "medications"]
+    },
+    {
+        "id": "health_012",
+        "question": "What vaccines are recommended for adults?",
+        "answer": "Recommended adult vaccines include annual influenza, appropriate boosters, tetanus-containing vaccines, and others based on age and health status. Specific recommendations should be discussed with healthcare providers as individual needs may vary based on health history and risk factors.",
+        "category": "preventive_care",
+        "keywords": ["vaccines", "immunization", "adult vaccines", "preventive care"]
+    },
+    {
+        "id": "health_013",
+        "question": "What does a high HbA1c level mean?",
+        "answer": "HbA1c measures average blood sugar control over several months. Higher levels indicate poorer blood sugar control and increased risk of complications. Normal ranges and interpretation should be discussed with healthcare providers who can provide personalized guidance based on individual health factors.",
+        "category": "lab_tests",
+        "keywords": ["HbA1c", "blood sugar", "diabetes", "lab test"]
+    },
+    {
+        "id": "health_014",
+        "question": "What is a heart-healthy diet?",
+        "answer": "A heart-healthy diet emphasizes fruits, vegetables, whole grains, lean proteins, and healthy fats. It limits saturated fat, trans fat, sodium, and added sugars. Well-studied examples include Mediterranean and DASH dietary patterns. Nutrition consultation can provide personalized guidance.",
+        "category": "nutrition",
+        "keywords": ["heart healthy diet", "nutrition", "diet", "cholesterol"]
+    },
+    {
+        "id": "health_015",
+        "question": "What is Cognitive Behavioral Therapy (CBT)?",
+        "answer": "CBT is a structured, evidence-based therapy that helps individuals identify and change negative thought patterns and behaviors. It's effective for various mental health conditions. Treatment is typically conducted with licensed mental health professionals over multiple sessions.",
+        "category": "mental_health",
+        "keywords": ["CBT", "therapy", "mental health", "cognitive behavioral"]
+    },
+    {
+        "id": "finance_001",
+        "question": "What is a stock and how does it work?",
+        "answer": "A stock represents ownership in a company. When you buy a stock, you become a shareholder and own a small fraction of the company. Stocks are traded on exchanges. Investors may profit through price appreciation and dividends, though investing involves risks including potential loss of principal.",
+        "category": "stock_market",
+        "keywords": ["stock", "equity", "shares", "investing"]
+    },
+    {
+        "id": "finance_002",
+        "question": "What is a P/E ratio?",
+        "answer": "The Price-to-Earnings (P/E) ratio measures a company's stock price relative to its earnings per share. It's used for comparing companies within the same industry. Interpretation varies by industry and market conditions, and should be considered alongside other financial metrics.",
+        "category": "stock_market",
+        "keywords": ["P/E ratio", "valuation", "stock analysis", "earnings"]
+    },
+    {
+        "id": "finance_003",
+        "question": "What is a bull market vs a bear market?",
+        "answer": "A bull market is a period of rising stock prices, typically driven by investor confidence and economic growth. A bear market is when prices fall significantly, often due to economic downturns. These terms describe general market trends over extended periods.",
+        "category": "stock_market",
+        "keywords": ["bull market", "bear market", "market trend", "investing"]
+    },
+    {
+        "id": "finance_004",
+        "question": "What is market capitalization?",
+        "answer": "Market capitalization is the total market value of a company's outstanding shares, calculated as share price multiplied by total shares. Companies are often classified by size (large-cap, mid-cap, small-cap) which relates to their market value.",
+        "category": "stock_market",
+        "keywords": ["market cap", "market capitalization", "valuation", "company size"]
+    },
+    {
+        "id": "finance_005",
+        "question": "What is dividend yield?",
+        "answer": "Dividend yield is the annual dividend payment divided by the stock's current price, expressed as a percentage. It represents the income return from stock dividends and is one factor investors consider when evaluating income-generating investments.",
+        "category": "stock_market",
+        "keywords": ["dividend yield", "dividends", "income investing", "stocks"]
+    },
+    {
+        "id": "finance_006",
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on both the initial principal and accumulated interest from previous periods. It accelerates wealth growth over time and is a fundamental concept for long-term saving and investing strategies.",
+        "category": "financial_terms",
+        "keywords": ["compound interest", "interest", "savings", "investing"]
+    },
+    {
+        "id": "finance_007",
+        "question": "What is inflation and how does it affect purchasing power?",
+        "answer": "Inflation is the rate at which the general price level of goods and services rises over time, reducing purchasing power. Central banks typically aim to maintain moderate inflation rates. Understanding inflation is important for financial planning.",
+        "category": "financial_terms",
+        "keywords": ["inflation", "purchasing power", "economics", "prices"]
+    },
+    {
+        "id": "finance_008",
+        "question": "What is a mutual fund?",
+        "answer": "A mutual fund pools money from many investors to buy a diversified portfolio of securities. Managed by professionals, it offers diversification and liquidity. Investors pay management fees, and performance varies based on market conditions and fund management.",
+        "category": "financial_terms",
+        "keywords": ["mutual fund", "diversification", "investment", "fund"]
+    },
+    {
+        "id": "finance_009",
+        "question": "What is an ETF (Exchange-Traded Fund)?",
+        "answer": "An ETF is a fund that tracks an index, sector, or asset and trades on a stock exchange like a regular stock. ETFs offer diversification with typically lower fees and trading flexibility compared to some traditional investment vehicles.",
+        "category": "financial_terms",
+        "keywords": ["ETF", "exchange traded fund", "index fund", "investing"]
+    },
+    {
+        "id": "finance_010",
+        "question": "What is a bond and how does it differ from a stock?",
+        "answer": "A bond is a fixed-income instrument where an investor lends money for a set period at a fixed interest rate. Unlike stocks, bonds don't give ownership rights but generally offer more predictable returns and are considered lower risk, though all investments carry some risk.",
+        "category": "financial_terms",
+        "keywords": ["bond", "fixed income", "investing", "debt"]
+    },
+    {
+        "id": "finance_011",
+        "question": "What is a credit score and why does it matter?",
+        "answer": "A credit score measures creditworthiness based on payment history, credit utilization, length of credit history, credit mix, and new inquiries. Higher scores typically lead to better loan terms and interest rates. Regular monitoring of credit reports is recommended.",
+        "category": "personal_finance",
+        "keywords": ["credit score", "creditworthiness", "loan", "interest rate"]
+    },
+    {
+        "id": "finance_012",
+        "question": "What is the difference between a Roth IRA and a Traditional IRA?",
+        "answer": "A Traditional IRA allows pre-tax contributions with taxed withdrawals in retirement. A Roth IRA uses after-tax contributions but qualified withdrawals are tax-free. The choice depends on individual circumstances and expected future tax situations.",
+        "category": "personal_finance",
+        "keywords": ["Roth IRA", "Traditional IRA", "retirement", "taxes"]
+    },
+    {
+        "id": "finance_013",
+        "question": "What is portfolio diversification?",
+        "answer": "Diversification is the practice of spreading investments across different asset classes, geographies, and sectors to reduce risk. The principle is that when one investment underperforms, others may perform better, potentially reducing overall portfolio volatility.",
+        "category": "risk_management",
+        "keywords": ["diversification", "portfolio", "risk management", "investing"]
+    },
+    {
+        "id": "finance_014",
+        "question": "What is an options contract?",
+        "answer": "An options contract gives the buyer the right, but not the obligation, to buy or sell an asset at a predetermined price before a specified date. Options are complex financial instruments used for various investment strategies but carry significant risks.",
+        "category": "derivatives",
+        "keywords": ["options", "derivatives", "investing", "financial instruments"]
+    },
+    {
+        "id": "finance_015",
+        "question": "What is blockchain technology?",
+        "answer": "Blockchain is a distributed digital ledger that records transactions across many computers in a secure and transparent way. Each transaction is grouped in blocks linked together, forming a chain. It enables secure transactions without a central authority.",
+        "category": "cryptocurrency",
+        "keywords": ["blockchain", "cryptocurrency", "digital ledger", "technology"]
+    }
+]
