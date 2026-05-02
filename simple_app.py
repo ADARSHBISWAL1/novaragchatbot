@@ -193,12 +193,13 @@ st.markdown("""
 @st.cache_resource
 def initialize_chatbot():
     """Initialize the chatbot (cached for performance)"""
+    # Use relative paths that work both locally and on Streamlit Cloud
     document_paths = [
-        "C:\\Users\\adars\\Desktop\\pograming\\Ragchatbot\\solar_system_improved.json",
-        "C:\\Users\\adars\\Desktop\\pograming\\Ragchatbot\\earth_geography_improved.json",
-        "C:\\Users\\adars\\Desktop\\pograming\\Ragchatbot\\product_launches_clean.json",
-        "C:\\Users\\adars\\Desktop\\pograming\\Ragchatbot\\chatbot_dataset_clean.json",
-        "C:\\Users\\adars\\Desktop\\pograming\\Ragchatbot\\health_finance_clean.json"
+        "solar_system_improved.json",
+        "earth_geography_improved.json", 
+        "product_launches_clean.json",
+        "chatbot_dataset_clean.json",
+        "health_finance_clean.json"
     ]
     
     chatbot = SimpleNoveChatbot()
