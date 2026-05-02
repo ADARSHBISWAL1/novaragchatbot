@@ -1,0 +1,107 @@
+[
+    {
+        "id": "earth_001",
+        "question": "What are the main layers of Earth?",
+        "answer": "Earth has four main layers: the crust (thin outer shell), mantle (thick rocky layer making up most of Earth's volume), outer core (liquid iron and nickel generating the magnetic field), and inner core (solid iron-nickel sphere). The crust ranges from 5 km thick under oceans to 70 km under mountains.",
+        "category": "structure",
+        "keywords": ["layers", "crust", "mantle", "core", "structure"]
+    },
+    {
+        "id": "earth_002",
+        "question": "How many continents are there?",
+        "answer": "There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia. Asia is the largest by area (44.6 million km²) and population (over 4.7 billion people), while Australia is the smallest. Together, continents cover about 29% of Earth's surface.",
+        "category": "geography",
+        "keywords": ["continents", "asia", "africa", "seven continents"]
+    },
+    {
+        "id": "earth_003",
+        "question": "What are Earth's major oceans?",
+        "answer": "Earth has five major oceans: Pacific, Atlantic, Indian, Southern, and Arctic. The Pacific Ocean is the largest and deepest, containing more than half of the world's oceanic water and reaching its greatest depth at the Mariana Trench (about 11,034 meters). Oceans cover approximately 71% of Earth's surface.",
+        "category": "oceans",
+        "keywords": ["oceans", "pacific", "atlantic", "mariana trench"]
+    },
+    {
+        "id": "earth_004",
+        "question": "What are Earth's climate zones?",
+        "answer": "Earth has five major climate zones: tropical, dry (arid), temperate, continental, and polar. Tropical zones near the equator receive intense sunlight year-round, while polar zones near the poles have extremely cold temperatures. Dry zones receive less than 250 mm of rainfall annually.",
+        "category": "climate",
+        "keywords": ["climate zones", "tropical", "arid", "temperate", "polar"]
+    },
+    {
+        "id": "earth_005",
+        "question": "What is Earth's atmosphere made of?",
+        "answer": "Earth's atmosphere is composed primarily of nitrogen (78%) and oxygen (21%), with trace amounts of argon (0.93%), carbon dioxide (0.04%), and other gases. The atmosphere is divided into five layers: troposphere (where weather occurs), stratosphere (contains the ozone layer), mesosphere, thermosphere, and exosphere.",
+        "category": "atmosphere",
+        "keywords": ["atmosphere", "nitrogen", "oxygen", "ozone layer"]
+    },
+    {
+        "id": "earth_006",
+        "question": "What is the highest mountain on Earth?",
+        "answer": "Mount Everest is the highest mountain on Earth at 8,849 meters above sea level. It's located in the Himalayas mountain range in Asia. The Himalayas contain all 14 peaks above 8,000 meters. Other major mountain ranges include the Andes (longest continental range), the Alps, and the Rockies.",
+        "category": "mountains",
+        "keywords": ["mount everest", "highest mountain", "himlayas", "mountains"]
+    },
+    {
+        "id": "earth_007",
+        "question": "What is the longest river in the world?",
+        "answer": "The Nile River (6,650 km) and Amazon River (6,400 km) compete for the title of world's longest river. The Amazon carries the greatest volume of water - about 20% of all freshwater discharged into Earth's oceans. The largest freshwater lake by surface area is the Caspian Sea.",
+        "category": "rivers",
+        "keywords": ["nile", "amazon", "longest river", "freshwater"]
+    },
+    {
+        "id": "earth_008",
+        "question": "What are the major deserts?",
+        "answer": "The Antarctic Desert is technically the world's largest desert at 14.2 million km², followed by the Arctic Desert. Among hot deserts, the Sahara in North Africa (9.2 million km²) is the largest, characterized by extreme temperature swings. Other notable deserts include the Arabian, Gobi, and Atacama.",
+        "category": "deserts",
+        "keywords": ["deserts", "sahara", "gobi", "atacama", "antarctic"]
+    },
+    {
+        "id": "earth_009",
+        "question": "What causes earthquakes and volcanoes?",
+        "answer": "Earthquakes and volcanoes are caused by plate tectonics. Earth's lithosphere is broken into about 15 major tectonic plates that move a few centimeters per year. At plate boundaries, convergent boundaries cause subduction zones and volcanic arcs, divergent boundaries create mid-ocean ridges, and transform boundaries produce fault lines.",
+        "category": "geology",
+        "keywords": ["earthquakes", "volcanoes", "plate tectonics", "ring of fire"]
+    },
+    {
+        "id": "earth_010",
+        "question": "What are Earth's major biomes?",
+        "answer": "Earth's major terrestrial biomes include tropical rainforest, savanna, desert, chaparral, temperate grassland, temperate forest, boreal forest (taiga), and tundra. The tropical rainforest biome contains over 50% of the world's species despite covering less than 7% of land surface.",
+        "category": "biomes",
+        "keywords": ["biomes", "rainforest", "tundra", "taiga", "savanna"]
+    },
+    {
+        "id": "earth_011",
+        "question": "What is climate change?",
+        "answer": "Climate change refers to Earth's average surface temperature rising by approximately 1.2°C since pre-industrial times, driven by increased greenhouse gases (CO₂, methane, nitrous oxide) from human activities. This warming causes glaciers to melt, sea levels to rise (currently 3.6 mm per year), and more extreme weather events.",
+        "category": "climate change",
+        "keywords": ["climate change", "global warming", "greenhouse gases", "sea level rise"]
+    },
+    {
+        "id": "earth_012",
+        "question": "Where is most of Earth's fresh water stored?",
+        "answer": "Most of Earth's fresh water (about 69%) is stored in glaciers and ice sheets, covering approximately 10% of land surface. The two major ice sheets - Antarctica and Greenland - hold enough ice to raise global sea levels by roughly 65 meters if fully melted. Lake Baikal in Russia holds about 20% of unfrozen fresh surface water.",
+        "category": "water",
+        "keywords": ["glaciers", "ice sheets", "fresh water", "antarctica", "greenland"]
+    },
+    {
+        "id": "earth_013",
+        "question": "What causes ocean currents?",
+        "answer": "Ocean currents are driven by wind, temperature differences, salinity gradients, and Earth's rotation (Coriolis effect). They play a critical role in distributing heat across the planet. The thermohaline circulation, called the 'ocean conveyor belt', moves warm surface water toward poles and cold deep water back toward equator on a 1,000-year cycle.",
+        "category": "ocean currents",
+        "keywords": ["ocean currents", "thermohaline circulation", "gulf stream", "coriolis"]
+    },
+    {
+        "id": "earth_014",
+        "question": "Why does Earth have seasons?",
+        "answer": "Earth's seasons are caused by the planet's axial tilt of 23.5° relative to its orbital plane. As Earth orbits the Sun, different hemispheres receive varying amounts of solar energy. When the Northern Hemisphere tilts toward the Sun (around June), it experiences summer, while the Southern Hemisphere experiences winter.",
+        "category": "seasons",
+        "keywords": ["seasons", "axial tilt", "equinox", "solstice", "hemisphere"]
+    },
+    {
+        "id": "earth_015",
+        "question": "What is the water cycle?",
+        "answer": "The water cycle describes the continuous movement of water through Earth's systems. It begins with evaporation from oceans (86% of total evaporation), followed by condensation into clouds, precipitation as rain/snow, and either infiltration into groundwater, runoff into rivers, or uptake by plants through transpiration. The cycle moves 577,000 km³ of water annually.",
+        "category": "water cycle",
+        "keywords": ["water cycle", "evaporation", "precipitation", "condensation", "transpiration"]
+    }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "earth_001",
+    "topic": "Earth's Structure",
+    "category": "Geography",
+    "title": "Layers of the Earth",
+    "content": "Earth is composed of four main layers: the crust, mantle, outer core, and inner core. The crust is the thin outermost shell, ranging from 5 km thick under oceans to 70 km under mountain ranges. Beneath it lies the mantle, a mostly solid rocky layer about 2,900 km thick that makes up the bulk of Earth's volume. The outer core is liquid iron and nickel, generating Earth's magnetic field, while the inner core is a solid iron-nickel sphere roughly the size of the Moon.",
+    "tags": ["structure", "geology", "layers", "crust", "mantle", "core"]
+  },
+  {
+    "id": "earth_002",
+    "topic": "Continents",
+    "category": "Geography",
+    "title": "The Seven Continents",
+    "content": "Earth has seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia (Oceania). Asia is the largest by area (44.6 million km²) and population (over 4.7 billion people), while Australia is the smallest continental landmass. Together, the continents cover about 29% of Earth's surface. They sit on tectonic plates that have been slowly drifting for hundreds of millions of years, once forming the supercontinent Pangaea around 300 million years ago.",
+    "tags": ["continents", "landmass", "Asia", "Africa", "tectonic plates", "Pangaea"]
+  },
+  {
+    "id": "earth_003",
+    "topic": "Oceans",
+    "category": "Geography",
+    "title": "Earth's Five Oceans",
+    "content": "Earth's oceans cover approximately 71% of the planet's surface and hold about 97% of all water. The five oceans — Pacific, Atlantic, Indian, Southern, and Arctic — are all interconnected. The Pacific Ocean is the largest and deepest, containing more than half of the world's oceanic water and reaching its greatest depth at the Mariana Trench (about 11,034 metres). Oceans regulate climate by absorbing solar heat and transporting it around the globe via currents, and they produce over half of Earth's atmospheric oxygen.",
+    "tags": ["oceans", "Pacific", "Atlantic", "Mariana Trench", "ocean currents", "water"]
+  },
+  {
+    "id": "earth_004",
+    "topic": "Climate Zones",
+    "category": "Climate",
+    "title": "Major Climate Zones of Earth",
+    "content": "Earth's surface is divided into five broad climate zones based on latitude and temperature: tropical, dry (arid), temperate, continental, and polar. Tropical zones near the equator receive intense sunlight year-round, supporting rainforests and high biodiversity. Dry zones receive less than 250 mm of rainfall annually and include hot deserts like the Sahara and cold deserts like the Gobi. Temperate zones experience four distinct seasons, while polar zones near the poles have extremely cold temperatures and support tundra or permanent ice.",
+    "tags": ["climate zones", "tropical", "arid", "temperate", "polar", "latitude"]
+  },
+  {
+    "id": "earth_005",
+    "topic": "Atmosphere",
+    "category": "Climate",
+    "title": "Earth's Atmosphere and its Layers",
+    "content": "Earth's atmosphere is a thin envelope of gases held by gravity, extending about 10,000 km above the surface. It is composed primarily of nitrogen (78%) and oxygen (21%), with trace amounts of argon, CO₂, and other gases. The atmosphere is divided into five layers: troposphere (where weather occurs, 0–12 km), stratosphere (contains the ozone layer, 12–50 km), mesosphere, thermosphere, and exosphere. The ozone layer in the stratosphere absorbs the majority of the Sun's harmful ultraviolet radiation, making complex life on Earth possible.",
+    "tags": ["atmosphere", "troposphere", "stratosphere", "ozone", "nitrogen", "oxygen"]
+  },
+  {
+    "id": "earth_006",
+    "topic": "Mountains",
+    "category": "Geography",
+    "title": "Major Mountain Ranges and Peaks",
+    "content": "Mountains cover about 25% of Earth's land surface and are home to roughly 15% of the global population. The Himalayas in Asia are the world's highest range, containing all 14 peaks above 8,000 metres including Mount Everest (8,849 m), Earth's highest point above sea level. Other major ranges include the Andes (longest continental range, running 7,000 km down South America), the Alps, the Rockies, and the Urals. Mountains significantly influence regional climate by blocking wind and precipitation, creating rain shadows on their leeward sides.",
+    "tags": ["mountains", "Himalayas", "Everest", "Andes", "Alps", "elevation", "rain shadow"]
+  },
+  {
+    "id": "earth_007",
+    "topic": "Rivers and Lakes",
+    "category": "Geography",
+    "title": "Major Rivers and Lakes",
+    "content": "Rivers are the primary channels through which freshwater moves from land to the sea, shaping landscapes and supporting civilisations. The Nile (6,650 km) and the Amazon (6,400 km) compete for the title of world's longest river, while the Amazon carries the greatest volume of water — about 20% of all freshwater discharged into Earth's oceans. The largest freshwater lake by surface area is the Caspian Sea (often classified as a lake), and Lake Baikal in Russia holds about 20% of the world's unfrozen fresh surface water at depths exceeding 1,600 metres.",
+    "tags": ["rivers", "lakes", "Amazon", "Nile", "Baikal", "freshwater", "hydrology"]
+  },
+  {
+    "id": "earth_008",
+    "topic": "Deserts",
+    "category": "Geography",
+    "title": "World's Major Deserts",
+    "content": "Deserts are regions that receive less than 250 mm of precipitation annually and cover about one-third of Earth's land area. The Antarctic Desert is technically the world's largest desert at 14.2 million km², followed by the Arctic Desert. Among hot deserts, the Sahara in North Africa (9.2 million km²) is the largest, characterised by extreme temperature swings between day and night. The Arabian, Gobi, and Atacama deserts are other notable examples. Despite harsh conditions, deserts host unique ecosystems adapted to aridity, including cacti, camels, and a variety of insects and reptiles.",
+    "tags": ["deserts", "Sahara", "Atacama", "Antarctic", "arid", "precipitation", "dryland"]
+  },
+  {
+    "id": "earth_009",
+    "topic": "Tectonic Plates",
+    "category": "Geography",
+    "title": "Plate Tectonics and Geological Activity",
+    "content": "Earth's lithosphere is broken into approximately 15 major tectonic plates that float on the semi-fluid asthenosphere and move a few centimetres per year. Interactions at plate boundaries cause earthquakes, volcanic eruptions, and the formation of mountain ranges. Convergent boundaries (where plates collide) can produce subduction zones and volcanic arcs; divergent boundaries (where plates pull apart) create mid-ocean ridges; and transform boundaries (where plates slide past each other) produce fault lines like California's San Andreas Fault. The 'Ring of Fire' around the Pacific basin is the world's most seismically and volcanically active zone.",
+    "tags": ["tectonic plates", "earthquakes", "volcanoes", "Ring of Fire", "subduction", "lithosphere"]
+  },
+  {
+    "id": "earth_010",
+    "topic": "Biomes",
+    "category": "Geography",
+    "title": "Earth's Major Biomes",
+    "content": "A biome is a large geographic region defined by its climate, vegetation, and wildlife. Earth's major terrestrial biomes include tropical rainforest, savanna, desert, chaparral, temperate grassland, temperate forest, boreal forest (taiga), and tundra. The tropical rainforest biome, found near the equator in South America, Central Africa, and Southeast Asia, contains over 50% of the world's species despite covering less than 7% of the land surface. The taiga is the world's largest terrestrial biome, stretching across northern Canada, Russia, and Scandinavia.",
+    "tags": ["biomes", "rainforest", "tundra", "taiga", "savanna", "biodiversity", "vegetation"]
+  },
+  {
+    "id": "earth_011",
+    "topic": "Climate Change",
+    "category": "Climate",
+    "title": "Global Climate Change",
+    "content": "Earth's average surface temperature has risen by approximately 1.2°C since pre-industrial times, driven largely by increased concentrations of greenhouse gases (CO₂, methane, nitrous oxide) from human activities such as burning fossil fuels and deforestation. This warming is causing glaciers and polar ice sheets to melt, sea levels to rise (currently at about 3.6 mm per year), and weather patterns to intensify — producing more frequent droughts, floods, and extreme heat events. The Intergovernmental Panel on Climate Change (IPCC) warns that exceeding 1.5°C of warming will trigger increasingly severe and potentially irreversible impacts on ecosystems and human societies.",
+    "tags": ["climate change", "global warming", "greenhouse gases", "CO2", "sea level rise", "IPCC"]
+  },
+  {
+    "id": "earth_012",
+    "topic": "Glaciers and Ice Caps",
+    "category": "Geography",
+    "title": "Glaciers, Ice Sheets, and Polar Regions",
+    "content": "Glaciers and ice sheets store about 69% of Earth's fresh water and cover approximately 10% of the land surface. The two major ice sheets — Antarctica and Greenland — together hold enough ice that, if fully melted, would raise global sea levels by roughly 65 metres. Glaciers are found on every continent except Australia, with large concentrations in the Himalayas, Andes, and Alps. They act as climate regulators by reflecting sunlight (high albedo) and feeding rivers during dry seasons. Due to rising temperatures, glacier retreat has accelerated significantly since the mid-20th century.",
+    "tags": ["glaciers", "ice sheets", "Antarctica", "Greenland", "freshwater", "albedo", "sea level"]
+  },
+  {
+    "id": "earth_013",
+    "topic": "Ocean Currents",
+    "category": "Climate",
+    "title": "Ocean Currents and Global Heat Distribution",
+    "content": "Ocean currents are continuous, directed movements of seawater driven by wind, temperature differences, salinity gradients, and Earth's rotation (Coriolis effect). They play a critical role in distributing heat across the planet, moderating coastal climates and regulating global temperatures. The thermohaline circulation — often called the 'ocean conveyor belt' — moves warm surface water toward the poles and cold deep water back toward the equator on a cycle that takes roughly 1,000 years. Major surface currents include the Gulf Stream (which keeps northwest Europe unusually warm) and the Humboldt Current along South America's west coast.",
+    "tags": ["ocean currents", "thermohaline circulation", "Gulf Stream", "Coriolis", "climate", "heat distribution"]
+  },
+  {
+    "id": "earth_014",
+    "topic": "Seasons",
+    "category": "Climate",
+    "title": "Why Earth Has Seasons",
+    "content": "Earth's seasons are caused by the planet's axial tilt of approximately 23.5° relative to its orbital plane around the Sun. This tilt means that as Earth orbits the Sun over a year, different hemispheres receive varying amounts of solar energy at different times. When the Northern Hemisphere is tilted toward the Sun (around June), it experiences summer with longer days and more intense sunlight, while the Southern Hemisphere experiences winter — and vice versa around December. Near the equator, seasonal variation is minimal, whereas polar regions experience extreme contrasts including months of continuous daylight or darkness.",
+    "tags": ["seasons", "axial tilt", "equinox", "solstice", "solar energy", "hemisphere"]
+  },
+  {
+    "id": "earth_015",
+    "topic": "Water Cycle",
+    "category": "Climate",
+    "title": "The Global Water Cycle (Hydrological Cycle)",
+    "content": "The water cycle describes the continuous movement of water through Earth's systems — oceans, atmosphere, land, and living organisms. It begins with evaporation from oceans and water bodies (about 86% of total evaporation), driven by solar energy. Water vapour rises, cools, and condenses into clouds through condensation, eventually falling as precipitation (rain, snow, sleet). On land, water either infiltrates the soil to become groundwater, runs off into rivers, or is taken up by plants and returned to the atmosphere through transpiration. The entire global water cycle moves an estimated 577,000 km³ of water each year.",
+    "tags": ["water cycle", "evaporation", "precipitation", "condensation", "groundwater", "hydrology"]
+  }
+]

@@ -1,0 +1,265 @@
+{
+  "dataset_meta": {
+    "name": "TechStartup Product Launches RAG Dataset",
+    "version": "1.0",
+    "created_date": "2026-05-02",
+    "description": "RAG chatbot dataset focused on product launch news for a tech startup. Includes product announcements, feature releases, version updates, and launch events.",
+    "total_documents": 18
+  },
+
+  "documents": [
+
+    {
+      "id": "doc_launch_001",
+      "type": "product_launch",
+      "chunk": "Launch: SupportBot Pro — Initial Release",
+      "content": "NovaSpark AI officially launched SupportBot Pro on March 15, 2022, its flagship AI-powered customer support automation platform. The launch was announced via a live webinar attended by over 1,200 registered guests. SupportBot Pro debuted with core features including a multi-channel inbox (chat + email), automatic ticket classification, and support for 10 languages. Founding early-access customers received 6 months free as a launch promotion.",
+      "metadata": {
+        "source": "Press Release",
+        "published_date": "2022-03-15",
+        "product": "SupportBot Pro",
+        "version": "1.0",
+        "category": "product_launch"
+      }
+    },
+
+    {
+      "id": "doc_launch_002",
+      "type": "product_launch",
+      "chunk": "Launch: SupportBot Pro v2.0 — WhatsApp & Sentiment Analysis",
+      "content": "NovaSpark AI released SupportBot Pro v2.0 on September 8, 2023. The major update introduced native WhatsApp Business API integration, allowing businesses to deploy AI support agents directly on WhatsApp without third-party bridges. v2.0 also added real-time sentiment analysis that flags emotionally distressed customers for immediate human handoff. Language support was expanded from 10 to 18 languages. Existing customers were migrated automatically with a 30-day parallel run period.",
+      "metadata": {
+        "source": "Product Blog",
+        "published_date": "2023-09-08",
+        "product": "SupportBot Pro",
+        "version": "2.0",
+        "category": "product_launch"
+      }
+    },
+
+    {
+      "id": "doc_launch_003",
+      "type": "product_launch",
+      "chunk": "Launch: LeadSpark — Initial Release",
+      "content": "NovaSpark AI launched LeadSpark on February 20, 2024, its AI-driven lead generation and nurturing platform. LeadSpark was unveiled at the SaaSBoomi Growth Summit in Chennai. The product launched with integrations for HubSpot and Zoho CRM, real-time lead scoring, and automated multi-step email sequences. Beta customers reported an average 28% improvement in lead-to-opportunity conversion within 60 days of deployment. Pricing started at $79/month per seat.",
+      "metadata": {
+        "source": "Press Release",
+        "published_date": "2024-02-20",
+        "product": "LeadSpark",
+        "version": "1.0",
+        "category": "product_launch"
+      }
+    },
+
+    {
+      "id": "doc_launch_004",
+      "type": "product_launch",
+      "chunk": "Launch: LeadSpark v1.5 — Salesforce Integration & AI Personalization",
+      "content": "LeadSpark v1.5 was released on August 12, 2024. The update added a deep Salesforce CRM integration with bi-directional sync, enabling sales teams to manage AI-scored leads entirely within Salesforce. A new AI Personalization Engine was introduced that generates hyper-personalized outreach emails based on a prospect's LinkedIn activity, company news, and past interactions. The update also added an A/B testing module for email subject lines and call-to-action variants.",
+      "metadata": {
+        "source": "Product Blog",
+        "published_date": "2024-08-12",
+        "product": "LeadSpark",
+        "version": "1.5",
+        "category": "product_launch"
+      }
+    },
+
+    {
+      "id": "doc_launch_005",
+      "type": "product_launch",
+      "chunk": "Launch: SupportBot Pro v3.0 — Voice Support & 22 Languages",
+      "content": "SupportBot Pro v3.0 launched on January 20, 2025, introducing voice support as a new channel. Businesses can now deploy AI voice agents on their IVR systems powered by NovaSpark AI's speech-to-text and text-to-speech models. The release also expanded language coverage to 22 languages, adding Tamil, Telugu, Bahasa Indonesia, Vietnamese, and Thai. A new Analytics Dashboard with conversation flow visualizations and drop-off analysis was also shipped in this release.",
+      "metadata": {
+        "source": "Press Release",
+        "published_date": "2025-01-20",
+        "product": "SupportBot Pro",
+        "version": "3.0",
+        "category": "product_launch"
+      }
+    },
+
+    {
+      "id": "doc_launch_006",
+      "type": "product_launch",
+      "chunk": "Launch: LeadSpark v2.0 — Outbound Calling & Intent Signals",
+      "content": "LeadSpark v2.0 was released on June 5, 2025 and marked the product's entry into outbound sales automation. New features included an AI-powered auto-dialler that places outbound calls to warm leads at optimal times, live call transcription, and post-call summaries written by AI. The release also introduced Intent Signal Tracking, which monitors prospect web activity and triggers outreach workflows when high-intent signals are detected. The update pushed LeadSpark's average customer conversion lift to 34%.",
+      "metadata": {
+        "source": "Product Blog",
+        "published_date": "2025-06-05",
+        "product": "LeadSpark",
+        "version": "2.0",
+        "category": "product_launch"
+      }
+    },
+
+    {
+      "id": "doc_launch_007",
+      "type": "product_launch",
+      "chunk": "Launch: FlowDesk — Initial Release",
+      "content": "NovaSpark AI launched FlowDesk on February 10, 2026, its no-code internal workflow automation builder, at the SaaSBoomi Annual conference in Chennai. FlowDesk allows non-technical teams to build multi-step automation workflows using a drag-and-drop interface. It shipped with 150+ pre-built connectors and 60+ workflow templates covering HR onboarding, finance approvals, and IT request management. Early adopter pricing offered 30% off through March 2026. The product onboarded 420 businesses in its first quarter.",
+      "metadata": {
+        "source": "Press Release",
+        "published_date": "2026-02-10",
+        "product": "FlowDesk",
+        "version": "1.0",
+        "category": "product_launch"
+      }
+    },
+
+    {
+      "id": "doc_launch_008",
+      "type": "product_launch",
+      "chunk": "Launch: SupportBot Pro v3.5 — Razorpay Native Integration",
+      "content": "On March 18, 2026, NovaSpark AI released SupportBot Pro v3.5 in conjunction with its Razorpay partnership. This update embedded SupportBot Pro natively within the Razorpay merchant dashboard, enabling merchants to handle payment queries, refund requests, and order status lookups via AI without switching platforms. The integration was pre-configured with Razorpay-specific workflows out of the box, cutting deployment time from hours to under 15 minutes for Razorpay merchants.",
+      "metadata": {
+        "source": "Press Release",
+        "published_date": "2026-03-18",
+        "product": "SupportBot Pro",
+        "version": "3.5",
+        "category": "product_launch"
+      }
+    },
+
+    {
+      "id": "doc_launch_009",
+      "type": "product_launch",
+      "chunk": "Launch: FlowDesk v1.1 — Conditional Logic & Audit Logs",
+      "content": "FlowDesk v1.1 was released on April 3, 2026, just two months after the initial launch. The update was driven primarily by early customer feedback. New capabilities include advanced conditional branching (if/else logic with nested conditions), a full audit trail for every workflow run, and a team collaboration mode allowing multiple users to co-edit workflows in real time. A free Workflow Library of 40 community-contributed templates was also published alongside the update.",
+      "metadata": {
+        "source": "Product Blog",
+        "published_date": "2026-04-03",
+        "product": "FlowDesk",
+        "version": "1.1",
+        "category": "product_launch"
+      }
+    },
+
+    {
+      "id": "doc_launch_010",
+      "type": "product_launch",
+      "chunk": "Upcoming: SupportBot Pro v4.0 — Agent Copilot Mode (Q3 2026)",
+      "content": "NovaSpark AI has announced SupportBot Pro v4.0, scheduled for release in Q3 2026. The headline feature is Agent Copilot Mode, which provides real-time AI suggestions to human agents during live chats — recommended responses, knowledge base snippets, and customer sentiment cues — without taking over the conversation. Other announced features include a Customer Memory layer that retains context across sessions, and a Proactive Support module that detects likely issues and reaches out to customers before they raise a ticket.",
+      "metadata": {
+        "source": "Product Roadmap",
+        "published_date": "2026-04-28",
+        "product": "SupportBot Pro",
+        "version": "4.0",
+        "status": "upcoming",
+        "expected_release": "Q3 2026",
+        "category": "product_launch"
+      }
+    },
+
+    {
+      "id": "doc_launch_011",
+      "type": "product_launch",
+      "chunk": "Upcoming: LeadSpark v2.5 — LinkedIn Outreach Automation (Q3 2026)",
+      "content": "LeadSpark v2.5, expected in Q3 2026, will add LinkedIn as a native outreach channel. Sales reps will be able to send AI-written LinkedIn connection requests and follow-up messages directly from LeadSpark, with full analytics on open, reply, and connection rates. The update will also include a Deal Intelligence feature that analyzes CRM data to identify which open deals are at risk of going cold and auto-suggests re-engagement actions.",
+      "metadata": {
+        "source": "Product Roadmap",
+        "published_date": "2026-04-28",
+        "product": "LeadSpark",
+        "version": "2.5",
+        "status": "upcoming",
+        "expected_release": "Q3 2026",
+        "category": "product_launch"
+      }
+    },
+
+    {
+      "id": "doc_launch_012",
+      "type": "product_launch",
+      "chunk": "Upcoming: FlowDesk v2.0 — AI Workflow Builder (Q4 2026)",
+      "content": "NovaSpark AI has previewed FlowDesk v2.0, targeting Q4 2026, which will introduce an AI Workflow Builder. Users will be able to describe a workflow in plain English and have the AI generate the complete automation, including conditions, actions, and integrations, as a starting point. The update will also add support for Python and JavaScript custom code blocks for power users, and an enterprise feature for organization-wide workflow governance and version control.",
+      "metadata": {
+        "source": "Product Roadmap",
+        "published_date": "2026-04-28",
+        "product": "FlowDesk",
+        "version": "2.0",
+        "status": "upcoming",
+        "expected_release": "Q4 2026",
+        "category": "product_launch"
+      }
+    },
+
+    {
+      "id": "doc_launch_013",
+      "type": "product_launch",
+      "chunk": "Launch Event: SaaSBoomi Annual 2026 — FlowDesk Demo",
+      "content": "NovaSpark AI was a Gold Sponsor at SaaSBoomi Annual 2026 held in Chennai on February 9–10, 2026. The team ran a 40-minute live demo theater session for FlowDesk that drew standing-room-only crowds. CTO Priya Nair delivered a keynote titled 'The No-Code Revolution: Giving Automation Back to Business Teams'. The company signed 78 new enterprise trial accounts during the event, making it the most successful conference activation in company history.",
+      "metadata": {
+        "source": "Event Report",
+        "published_date": "2026-02-12",
+        "product": "FlowDesk",
+        "category": "product_launch"
+      }
+    },
+
+    {
+      "id": "doc_launch_014",
+      "type": "product_launch",
+      "chunk": "Feature Release: SupportBot Pro — Custom AI Personas",
+      "content": "NovaSpark AI shipped a Custom AI Personas feature for SupportBot Pro on November 14, 2025. Businesses can now define a unique name, personality, tone of voice, and avatar for their AI support agent. The persona is consistently applied across all channels — chat, email, and WhatsApp. Internal testing showed that branded personas increased customer satisfaction scores by an average of 0.4 points on a 5-point scale compared to generic bots.",
+      "metadata": {
+        "source": "Changelog",
+        "published_date": "2025-11-14",
+        "product": "SupportBot Pro",
+        "category": "product_launch"
+      }
+    },
+
+    {
+      "id": "doc_launch_015",
+      "type": "product_launch",
+      "chunk": "Feature Release: LeadSpark — Campaign ROI Dashboard",
+      "content": "A Campaign ROI Dashboard was added to LeadSpark on December 2, 2025. The dashboard gives sales and marketing teams a unified view of pipeline revenue generated per campaign, cost-per-lead by channel, and AI-vs-human contribution to closed deals. The feature integrates directly with Salesforce Opportunities and HubSpot Deals to pull in deal values automatically. Early users reported saving 4–6 hours per week previously spent on manual reporting.",
+      "metadata": {
+        "source": "Changelog",
+        "published_date": "2025-12-02",
+        "product": "LeadSpark",
+        "category": "product_launch"
+      }
+    },
+
+    {
+      "id": "doc_launch_016",
+      "type": "product_launch",
+      "chunk": "Mobile App Launch: NovaSpark AI Mobile (iOS & Android)",
+      "content": "NovaSpark AI launched its companion mobile app for iOS and Android on October 22, 2025. The app gives account admins and team leads real-time visibility into bot performance, active conversations, and lead pipeline health from their phones. Push notifications alert managers to escalations and anomalies. The app also includes a Quick Reply mode allowing human agents to respond to escalated tickets directly from mobile. The app received a 4.7-star rating on both the App Store and Google Play within its first month.",
+      "metadata": {
+        "source": "Press Release",
+        "published_date": "2025-10-22",
+        "product": "NovaSpark AI Mobile App",
+        "category": "product_launch"
+      }
+    },
+
+    {
+      "id": "doc_launch_017",
+      "type": "product_launch",
+      "chunk": "Launch: NovaSpark AI Developer API & Marketplace",
+      "content": "NovaSpark AI opened its Developer API and Integration Marketplace to the public on July 8, 2025. The REST API allows developers to build custom integrations, embed NovaSpark AI capabilities into their own products, and create marketplace-listed plugins. At launch, the marketplace included 12 partner-built integrations. Developers receive a generous free tier of 50,000 API calls per month. The API launch was accompanied by comprehensive documentation, SDKs for Python, Node.js, and PHP, and a developer community forum.",
+      "metadata": {
+        "source": "Press Release",
+        "published_date": "2025-07-08",
+        "product": "Developer API",
+        "category": "product_launch"
+      }
+    },
+
+    {
+      "id": "doc_launch_018",
+      "type": "product_launch",
+      "chunk": "Launch: NovaSpark AI Enterprise Plan",
+      "content": "NovaSpark AI formally launched its Enterprise Plan tier on March 1, 2025, targeting companies with 500+ employees. The plan includes unlimited users, a dedicated account manager, a custom SLA with 99.9% uptime guarantee, on-premise deployment option, SSO and advanced RBAC, and a quarterly business review cadence. The Enterprise plan is sold exclusively through the direct sales team with custom pricing. Within 3 months of launch, NovaSpark AI signed 14 enterprise accounts, including two publicly listed companies.",
+      "metadata": {
+        "source": "Press Release",
+        "published_date": "2025-03-01",
+        "product": "Enterprise Plan",
+        "category": "product_launch"
+      }
+    }
+
+  ]
+}

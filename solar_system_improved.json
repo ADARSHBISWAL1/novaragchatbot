@@ -1,0 +1,107 @@
+[
+    {
+        "id": "solar_001",
+        "question": "Which planet has the most moons?",
+        "answer": "Saturn has the most moons in our solar system with 146 confirmed moons, followed closely by Jupiter with 95 moons. Saturn's moons include Titan, Enceladus, Mimas, Iapetus, and many smaller ones.",
+        "category": "planets",
+        "keywords": ["moons", "saturn", "jupiter", "planets"]
+    },
+    {
+        "id": "solar_002", 
+        "question": "What is the Great Red Spot?",
+        "answer": "The Great Red Spot is a massive storm on Jupiter that has been raging for over 350 years. It's so large that it could contain 2-3 Earths side by side. This anticyclonic storm rotates counterclockwise and is powered by Jupiter's atmospheric dynamics.",
+        "category": "jupiter",
+        "keywords": ["great red spot", "jupiter", "storm", "atmosphere"]
+    },
+    {
+        "id": "solar_003",
+        "question": "Which planet is closest to the Sun?",
+        "answer": "Mercury is the closest planet to the Sun, located at an average distance of 57.9 million kilometers (0.387 AU). It has extreme temperature variations ranging from -180°C at night to 430°C during the day.",
+        "category": "planets",
+        "keywords": ["mercury", "closest", "sun", "distance"]
+    },
+    {
+        "id": "solar_004",
+        "question": "Which planet is farthest from the Sun?",
+        "answer": "Neptune is the farthest planet from the Sun, located at an average distance of 4.5 billion kilometers (30.07 AU). It takes 164.8 Earth years to complete one orbit around the Sun.",
+        "category": "planets",
+        "keywords": ["neptune", "farthest", "sun", "distance"]
+    },
+    {
+        "id": "solar_005",
+        "question": "What are the terrestrial planets?",
+        "answer": "The terrestrial planets are Mercury, Venus, Earth, and Mars. These are the four rocky planets closest to the Sun, characterized by solid surfaces and relatively high densities compared to the gas giants.",
+        "category": "planets",
+        "keywords": ["terrestrial", "rocky", "mercury", "venus", "earth", "mars"]
+    },
+    {
+        "id": "solar_006",
+        "question": "What are the gas giant planets?",
+        "answer": "The gas giant planets are Jupiter and Saturn. These large planets are composed mainly of hydrogen and helium, with no solid surfaces. Jupiter is the largest planet in our solar system, and Saturn is famous for its spectacular ring system.",
+        "category": "planets",
+        "keywords": ["gas giants", "jupiter", "saturn", "hydrogen", "helium"]
+    },
+    {
+        "id": "solar_007",
+        "question": "What are the ice giant planets?",
+        "answer": "The ice giant planets are Uranus and Neptune. These planets are composed mainly of water, ammonia, and methane ices, along with hydrogen and helium. Uranus rotates on its side, and Neptune has the strongest winds in the solar system.",
+        "category": "planets",
+        "keywords": ["ice giants", "uranus", "neptune", "methane", "winds"]
+    },
+    {
+        "id": "solar_008",
+        "question": "What is Earth's moon called?",
+        "answer": "Earth's moon is simply called 'the Moon'. It's the fifth largest moon in the solar system and the largest relative to its planet's size. The Moon orbits Earth every 27.3 days and is responsible for ocean tides.",
+        "category": "moons",
+        "keywords": ["moon", "earth", "tides", "orbit"]
+    },
+    {
+        "id": "solar_009",
+        "question": "Which planet has the most spectacular rings?",
+        "answer": "Saturn has the most spectacular and extensive ring system in our solar system. Its rings are made of ice and rock particles ranging from tiny grains to house-sized chunks. The ring system extends 282,000 kilometers from the planet.",
+        "category": "rings",
+        "keywords": ["saturn", "rings", "ice", "particles"]
+    },
+    {
+        "id": "solar_010",
+        "question": "What is the hottest planet in our solar system?",
+        "answer": "Venus is the hottest planet in our solar system with surface temperatures around 462°C, even hotter than Mercury despite being farther from the Sun. This is due to Venus's thick carbon dioxide atmosphere that creates a runaway greenhouse effect.",
+        "category": "temperature",
+        "keywords": ["venus", "hottest", "greenhouse", "temperature"]
+    },
+    {
+        "id": "solar_011",
+        "question": "What is the coldest planet in our solar system?",
+        "answer": "Uranus is the coldest planet in our solar system with atmospheric temperatures around -224°C. Neptune has stronger winds but Uranus has the lowest recorded temperatures due to its unique atmospheric composition and lack of internal heat source.",
+        "category": "temperature",
+        "keywords": ["uranus", "coldest", "temperature", "atmosphere"]
+    },
+    {
+        "id": "solar_012",
+        "question": "Which planet has the strongest gravity?",
+        "answer": "Jupiter has the strongest gravity of all planets, with surface gravity about 2.4 times Earth's gravity. If you could stand on Jupiter (which you can't, as it's a gas giant), you would weigh 2.4 times your Earth weight.",
+        "category": "gravity",
+        "keywords": ["jupiter", "gravity", "strongest", "weight"]
+    },
+    {
+        "id": "solar_013",
+        "question": "What is the asteroid belt?",
+        "answer": "The asteroid belt is a region between Mars and Jupiter containing millions of rocky objects. Most asteroids are small, but some like Ceres are large enough to be classified as dwarf planets. The belt formed from material that never coalesced into a planet due to Jupiter's strong gravity.",
+        "category": "asteroids",
+        "keywords": ["asteroid belt", "mars", "jupiter", "ceres"]
+    },
+    {
+        "id": "solar_014",
+        "question": "What are dwarf planets?",
+        "answer": "Dwarf planets are celestial bodies that orbit the Sun and are massive enough to be spherical, but haven't cleared their orbital neighborhood. The five recognized dwarf planets are Pluto, Eris, Ceres, Makemake, and Haumea. Pluto was reclassified from a planet to a dwarf planet in 2006.",
+        "category": "dwarf planets",
+        "keywords": ["dwarf planets", "pluto", "eris", "ceres"]
+    },
+    {
+        "id": "solar_015",
+        "question": "How many planets are in our solar system?",
+        "answer": "There are 8 planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. They are divided into terrestrial planets (Mercury, Venus, Earth, Mars) and gas/ice giants (Jupiter, Saturn, Uranus, Neptune).",
+        "category": "planets",
+        "keywords": ["eight planets", "mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus", "neptune"]
+    }
+]

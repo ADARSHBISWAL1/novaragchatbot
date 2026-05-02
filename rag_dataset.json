@@ -1,0 +1,245 @@
+{
+  "dataset_meta": {
+    "name": "TechStartup RAG Knowledge Base",
+    "version": "1.0",
+    "created_date": "2026-05-02",
+    "description": "Structured dataset for a RAG chatbot containing company profile, team, products, and news articles.",
+    "total_documents": 30
+  },
+
+  "company": {
+    "id": "doc_company_001",
+    "type": "company_profile",
+    "chunk": "Company Overview",
+    "content": "NovaSpark AI is a technology startup founded in 2021 and headquartered in Bangalore, India, with a satellite office in San Francisco, USA. The company builds AI-powered SaaS tools that help small and medium businesses automate customer support, lead generation, and internal workflows. NovaSpark AI serves over 3,000 businesses across 28 countries as of 2026.",
+    "metadata": { "source": "About Page", "last_updated": "2026-04-01", "category": "company" }
+  },
+
+  "documents": [
+
+    {
+      "id": "doc_company_002",
+      "type": "company_profile",
+      "chunk": "Mission and Vision",
+      "content": "NovaSpark AI's mission is to make intelligent automation accessible to every business, regardless of size or technical expertise. The company envisions a world where repetitive work is fully delegated to AI, freeing humans to focus on creativity, strategy, and relationships.",
+      "metadata": { "source": "About Page", "last_updated": "2026-04-01", "category": "company" }
+    },
+
+    {
+      "id": "doc_company_003",
+      "type": "company_profile",
+      "chunk": "Core Values",
+      "content": "NovaSpark AI operates on four core values: (1) Customer Obsession — every product decision is driven by real user pain points; (2) Radical Transparency — open communication internally and externally; (3) Responsible AI — ethical AI development with built-in bias audits; (4) Continuous Learning — employees are encouraged to spend 10% of their work time on self-development.",
+      "metadata": { "source": "Careers Page", "last_updated": "2026-03-15", "category": "company" }
+    },
+
+    {
+      "id": "doc_company_004",
+      "type": "company_profile",
+      "chunk": "Founding Story",
+      "content": "NovaSpark AI was founded in October 2021 by Aryan Mehta (CEO) and Priya Nair (CTO), former engineers at Google and Flipkart respectively. The idea originated from Aryan's frustration with the cost and complexity of enterprise automation tools while consulting for small retailers. The company was bootstrapped for its first year before raising a seed round in 2022.",
+      "metadata": { "source": "Founder Blog", "last_updated": "2025-10-01", "category": "company" }
+    },
+
+    {
+      "id": "doc_company_005",
+      "type": "company_profile",
+      "chunk": "Leadership Team",
+      "content": "The leadership team at NovaSpark AI includes: Aryan Mehta (CEO & Co-founder) — 12 years in product and engineering; Priya Nair (CTO & Co-founder) — leads AI research and platform infrastructure; Rohan Desai (VP of Sales) — previously at Salesforce India; Meera Krishnan (Head of Marketing) — ex-Zoho growth lead; Samuel Adeyemi (VP Engineering) — joined from AWS in 2024.",
+      "metadata": { "source": "Team Page", "last_updated": "2026-02-20", "category": "company" }
+    },
+
+    {
+      "id": "doc_company_006",
+      "type": "company_profile",
+      "chunk": "Funding History",
+      "content": "NovaSpark AI has raised a total of $18.5 million in funding across three rounds: $1.2M seed round in March 2022 led by Blume Ventures; $7M Series A in November 2023 led by Accel India with participation from Sequoia Surge; $10.3M Series B in January 2026 led by Tiger Global, with existing investors doubling down. The latest round is earmarked for US expansion and R&D.",
+      "metadata": { "source": "Press Room", "last_updated": "2026-01-30", "category": "company" }
+    },
+
+    {
+      "id": "doc_company_007",
+      "type": "company_profile",
+      "chunk": "Office Locations",
+      "content": "NovaSpark AI's primary headquarters is located at 4th Floor, Brigade Tech Gardens, Whitefield, Bangalore 560066, India. The US office is at 447 Sutter Street, Suite 900, San Francisco, CA 94108. The company has a distributed engineering team with employees in Mumbai, Delhi, Hyderabad, and remote workers across Southeast Asia.",
+      "metadata": { "source": "Contact Page", "last_updated": "2026-03-01", "category": "company" }
+    },
+
+    {
+      "id": "doc_company_008",
+      "type": "company_profile",
+      "chunk": "Employee Count and Culture",
+      "content": "As of May 2026, NovaSpark AI employs 142 full-time staff and 35 contractors. The company has a hybrid-first work culture with two anchor days per week in office. Employee benefits include health insurance, stock options, a learning budget of ₹50,000 per year, mental wellness support, and generous parental leave for all genders.",
+      "metadata": { "source": "Careers Page", "last_updated": "2026-04-10", "category": "company" }
+    },
+
+    {
+      "id": "doc_product_001",
+      "type": "product",
+      "chunk": "Product: SupportBot Pro",
+      "content": "SupportBot Pro is NovaSpark AI's flagship customer support automation platform. It uses large language models fine-tuned on business-specific data to handle customer queries via chat, email, and WhatsApp. Key features include: multi-channel inbox, automatic ticket classification, human handoff, sentiment analysis, and multilingual support in 22 languages. Pricing starts at $49/month.",
+      "metadata": { "source": "Product Page", "last_updated": "2026-04-15", "category": "product" }
+    },
+
+    {
+      "id": "doc_product_002",
+      "type": "product",
+      "chunk": "Product: LeadSpark",
+      "content": "LeadSpark is an AI-driven lead generation and nurturing tool. It integrates with CRM platforms like HubSpot, Salesforce, and Zoho to score leads in real time, personalize outreach, and automate follow-up sequences. LeadSpark has helped customers increase qualified lead conversion rates by an average of 34%. Pricing is $79/month per seat.",
+      "metadata": { "source": "Product Page", "last_updated": "2026-03-20", "category": "product" }
+    },
+
+    {
+      "id": "doc_product_003",
+      "type": "product",
+      "chunk": "Product: FlowDesk",
+      "content": "FlowDesk is a no-code internal workflow automation builder. Teams can create automated approval chains, data sync pipelines, and scheduled reports without writing code. FlowDesk connects to 150+ third-party apps via native integrations and Zapier. It is NovaSpark AI's newest product, launched in February 2026, and has already onboarded 420 businesses in its first quarter.",
+      "metadata": { "source": "Product Page", "last_updated": "2026-04-20", "category": "product" }
+    },
+
+    {
+      "id": "doc_product_004",
+      "type": "product",
+      "chunk": "Pricing and Plans",
+      "content": "NovaSpark AI offers three tiers across its product suite: Starter (up to 3 users, limited integrations, $49/month), Growth (up to 20 users, all integrations, priority support, $149/month), and Enterprise (unlimited users, custom SLA, dedicated account manager, custom pricing). Annual billing offers a 20% discount. A 14-day free trial is available for all plans with no credit card required.",
+      "metadata": { "source": "Pricing Page", "last_updated": "2026-04-01", "category": "product" }
+    },
+
+    {
+      "id": "doc_product_005",
+      "type": "product",
+      "chunk": "Security and Compliance",
+      "content": "NovaSpark AI is SOC 2 Type II certified and GDPR compliant. All data is encrypted at rest (AES-256) and in transit (TLS 1.3). The platform supports SSO via SAML 2.0 and OAuth 2.0, role-based access control, and provides data residency options in India, EU, and the US. A Data Processing Agreement (DPA) is available for enterprise customers.",
+      "metadata": { "source": "Security Page", "last_updated": "2026-02-15", "category": "product" }
+    },
+
+    {
+      "id": "doc_news_001",
+      "type": "news",
+      "chunk": "News: Series B Funding Announcement",
+      "content": "On January 28, 2026, NovaSpark AI announced the close of its $10.3 million Series B funding round led by Tiger Global Management. The round also saw participation from existing investors Accel India and Blume Ventures. CEO Aryan Mehta stated the funds would accelerate the company's expansion into the North American market and double the engineering team by Q3 2026. This brings the company's total funding to $18.5 million.",
+      "metadata": { "source": "Press Release", "published_date": "2026-01-28", "category": "funding" }
+    },
+
+    {
+      "id": "doc_news_002",
+      "type": "news",
+      "chunk": "News: FlowDesk Product Launch",
+      "content": "NovaSpark AI launched FlowDesk on February 10, 2026, entering the growing no-code workflow automation market. The product was unveiled at the SaaSBoomi Annual conference in Chennai. FlowDesk was noted for its unusually simple onboarding — users can automate their first workflow in under 5 minutes. Early adopter pricing was offered at 30% off through March 2026.",
+      "metadata": { "source": "Press Release", "published_date": "2026-02-10", "category": "product_launch" }
+    },
+
+    {
+      "id": "doc_news_003",
+      "type": "news",
+      "chunk": "News: Partnership with Razorpay",
+      "content": "In March 2026, NovaSpark AI announced a strategic partnership with Razorpay to embed SupportBot Pro natively within Razorpay's merchant dashboard. Merchants using Razorpay Payment Pages can now deploy AI support agents to handle payment queries, refund requests, and order status lookups without leaving the Razorpay ecosystem. The integration went live on March 18, 2026.",
+      "metadata": { "source": "Press Release", "published_date": "2026-03-18", "category": "partnership" }
+    },
+
+    {
+      "id": "doc_news_004",
+      "type": "news",
+      "chunk": "News: NovaSpark AI Named in Forbes Asia 100 to Watch",
+      "content": "NovaSpark AI was recognized in the Forbes Asia '100 to Watch' list for 2026, published in April 2026. The list highlights the most promising startups across the Asia-Pacific region. Forbes cited NovaSpark AI's rapid customer growth, responsible AI practices, and expansion into Southeast Asian markets as key reasons for inclusion. CEO Aryan Mehta called it a validation of the team's hard work.",
+      "metadata": { "source": "News Coverage", "published_date": "2026-04-05", "category": "award" }
+    },
+
+    {
+      "id": "doc_news_005",
+      "type": "news",
+      "chunk": "News: Hiring Drive for US Expansion",
+      "content": "Following its Series B, NovaSpark AI launched an aggressive hiring campaign in April 2026 targeting the US market. The company is hiring 20 roles across sales, customer success, and marketing based in San Francisco. VP of Sales Rohan Desai will relocate to the US office to lead the expansion. The company is also establishing partnerships with US-based resellers and systems integrators.",
+      "metadata": { "source": "Company Blog", "published_date": "2026-04-12", "category": "company_announcement" }
+    },
+
+    {
+      "id": "doc_news_006",
+      "type": "news",
+      "chunk": "News: SupportBot Pro Reaches 3,000 Business Milestone",
+      "content": "In April 2026, NovaSpark AI announced that SupportBot Pro surpassed 3,000 active business customers globally, up from 1,800 a year earlier. The growth was driven by expansion in Southeast Asia and a reseller program launched in Q3 2025. The platform now processes over 4 million customer interactions per month. The company celebrated the milestone with a customer appreciation event in Bangalore.",
+      "metadata": { "source": "Company Blog", "published_date": "2026-04-22", "category": "milestone" }
+    },
+
+    {
+      "id": "doc_news_007",
+      "type": "news",
+      "chunk": "News: Industry Trend — AI Adoption in SMBs",
+      "content": "A 2026 NASSCOM report found that AI adoption among Indian SMBs rose by 58% year-over-year, with customer service automation being the top use case. Budget constraints remain the biggest barrier to adoption, followed by lack of technical expertise. Companies offering plug-and-play AI solutions with affordable pricing are best positioned to capture this growing market. NovaSpark AI's SupportBot Pro was cited as a leading example in the report.",
+      "metadata": { "source": "Industry Report — NASSCOM", "published_date": "2026-03-01", "category": "industry_news" }
+    },
+
+    {
+      "id": "doc_news_008",
+      "type": "news",
+      "chunk": "News: Industry Trend — No-Code Automation Market Growth",
+      "content": "According to a Gartner forecast from early 2026, the global no-code and low-code platform market is expected to reach $44.5 billion by 2028, growing at a CAGR of 22%. The surge is attributed to rising demand from non-technical business users wanting to build automations without relying on IT. Workflow automation tools like FlowDesk are expected to be key beneficiaries of this trend.",
+      "metadata": { "source": "Gartner Report", "published_date": "2026-02-20", "category": "industry_news" }
+    },
+
+    {
+      "id": "doc_news_009",
+      "type": "news",
+      "chunk": "News: NovaSpark AI Launches Responsible AI Charter",
+      "content": "On May 1, 2026, NovaSpark AI published its Responsible AI Charter, a public commitment to ethical AI development. The charter outlines policies on data privacy, algorithmic fairness, human oversight, and transparency in AI decision-making. It includes a quarterly bias audit process for all AI models and a public disclosure of audit results. The charter was developed with input from an external ethics advisory board.",
+      "metadata": { "source": "Press Release", "published_date": "2026-05-01", "category": "company_announcement" }
+    },
+
+    {
+      "id": "doc_news_010",
+      "type": "news",
+      "chunk": "News: Customer Story — GreenLeaf Retail",
+      "content": "GreenLeaf Retail, an e-commerce company based in Pune, reduced customer support costs by 62% after deploying SupportBot Pro in Q4 2025. The company previously relied on a 15-person support team to handle 20,000 monthly queries. After deployment, SupportBot Pro autonomously resolved 78% of queries, allowing the team to shrink to 6 agents focused on complex cases. Customer satisfaction scores rose from 3.6 to 4.5 out of 5.",
+      "metadata": { "source": "Case Study", "published_date": "2026-01-15", "category": "customer_story" }
+    },
+
+    {
+      "id": "doc_news_011",
+      "type": "news",
+      "chunk": "News: Customer Story — MedEase Clinics",
+      "content": "MedEase Clinics, a chain of 40 diagnostic centres across South India, integrated LeadSpark to automate appointment follow-ups and health package upsells. Within 3 months, the clinic reported a 29% increase in appointment rebooking rates and a 41% improvement in package conversion. The automation runs across WhatsApp and email, requiring zero manual effort from staff for routine follow-ups.",
+      "metadata": { "source": "Case Study", "published_date": "2026-03-10", "category": "customer_story" }
+    },
+
+    {
+      "id": "doc_faq_001",
+      "type": "faq",
+      "chunk": "FAQ: Is there a free trial?",
+      "content": "Yes, NovaSpark AI offers a 14-day free trial for all plans — Starter, Growth, and Enterprise. No credit card is required to start the trial. You get access to all features of your selected plan during the trial period. After 14 days, you can choose to subscribe or your account will be paused.",
+      "metadata": { "source": "FAQ Page", "last_updated": "2026-04-01", "category": "faq" }
+    },
+
+    {
+      "id": "doc_faq_002",
+      "type": "faq",
+      "chunk": "FAQ: What integrations are supported?",
+      "content": "NovaSpark AI products support integrations with 150+ tools including Salesforce, HubSpot, Zoho CRM, Freshdesk, Intercom, Shopify, WooCommerce, Slack, Microsoft Teams, Google Workspace, WhatsApp Business API, and Razorpay. Custom integrations can be built using the REST API. Enterprise customers can request dedicated integration support.",
+      "metadata": { "source": "FAQ Page", "last_updated": "2026-04-01", "category": "faq" }
+    },
+
+    {
+      "id": "doc_faq_003",
+      "type": "faq",
+      "chunk": "FAQ: How is customer data handled?",
+      "content": "NovaSpark AI does not use customer data to train its models. All data is encrypted at rest and in transit. Customers can choose their preferred data residency region (India, EU, or US). Data can be exported or deleted at any time via the dashboard. NovaSpark AI is GDPR compliant and SOC 2 Type II certified.",
+      "metadata": { "source": "FAQ Page", "last_updated": "2026-04-01", "category": "faq" }
+    },
+
+    {
+      "id": "doc_faq_004",
+      "type": "faq",
+      "chunk": "FAQ: How does onboarding work?",
+      "content": "New customers receive a dedicated onboarding call within 24 hours of signing up for Growth or Enterprise plans. Starter plan customers receive access to a self-serve onboarding wizard, video tutorials, and a detailed knowledge base. Average time to first live chatbot is under 2 hours for Starter plans and same-day for guided Enterprise onboarding.",
+      "metadata": { "source": "FAQ Page", "last_updated": "2026-04-01", "category": "faq" }
+    },
+
+    {
+      "id": "doc_faq_005",
+      "type": "faq",
+      "chunk": "FAQ: What languages are supported?",
+      "content": "SupportBot Pro supports 22 languages including English, Hindi, Tamil, Telugu, Kannada, Malayalam, Marathi, Bengali, Gujarati, Punjabi, Spanish, French, German, Portuguese, Arabic, Bahasa Indonesia, Thai, Vietnamese, Japanese, Korean, Simplified Chinese, and Traditional Chinese. Auto-language detection is enabled by default.",
+      "metadata": { "source": "FAQ Page", "last_updated": "2026-04-01", "category": "faq" }
+    }
+
+  ]
+}

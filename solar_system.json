@@ -1,0 +1,510 @@
+[
+    {
+        "id": "sun",
+        "name": "Sun",
+        "type": "star",
+        "physical_properties": {
+            "mass_kg": 1.989e+30,
+            "diameter_km": 1392700,
+            "density_g_cm3": 1.41,
+            "gravity_m_s2": 274.0,
+            "escape_velocity_km_s": 617.5,
+            "rotation_period_days": 25.38,
+            "axial_tilt_deg": 7.25
+        },
+        "orbital_data": {
+            "position": "center of solar system",
+            "distance_from_center_au": 0,
+            "orbital_period_years": null,
+            "orbital_speed_km_s": null,
+            "orbital_eccentricity": null
+        },
+        "atmosphere": {
+            "composition": {
+                "hydrogen": "73%",
+                "helium": "25%",
+                "other": "2%"
+            },
+            "surface_temperature_c": 5500,
+            "core_temperature_c": 15000000,
+            "notable_features": "Corona extends millions of km; solar wind streams outward at 400-800 km/s; sunspots are cooler regions caused by magnetic field disturbances"
+        },
+        "moons": null
+    },
+    {
+        "id": "mercury",
+        "name": "Mercury",
+        "type": "planet",
+        "subtype": "terrestrial",
+        "physical_properties": {
+            "mass_kg": 3.285e+23,
+            "diameter_km": 4879,
+            "density_g_cm3": 5.43,
+            "gravity_m_s2": 3.7,
+            "escape_velocity_km_s": 4.25,
+            "rotation_period_days": 58.65,
+            "axial_tilt_deg": 0.034
+        },
+        "orbital_data": {
+            "position_from_sun": 1,
+            "distance_from_sun_au": 0.387,
+            "distance_from_sun_km": 57900000,
+            "orbital_period_years": 0.241,
+            "orbital_speed_km_s": 47.4,
+            "orbital_eccentricity": 0.206,
+            "orbital_inclination_deg": 7.0
+        },
+        "atmosphere": {
+            "type": "exosphere",
+            "composition": {
+                "oxygen": "42%",
+                "sodium": "29%",
+                "hydrogen": "22%",
+                "helium": "6%",
+                "other": "1%"
+            },
+            "surface_pressure_atm": 1e-13,
+            "temperature_range_c": {
+                "min": -180,
+                "max": 430
+            },
+            "notable_features": "Virtually no atmosphere; extreme temperature swings between day and night; water ice exists in permanently shadowed polar craters"
+        },
+        "moons": {
+            "count": 0,
+            "list": []
+        }
+    },
+    {
+        "id": "venus",
+        "name": "Venus",
+        "type": "planet",
+        "subtype": "terrestrial",
+        "physical_properties": {
+            "mass_kg": 4.867e+24,
+            "diameter_km": 12104,
+            "density_g_cm3": 5.24,
+            "gravity_m_s2": 8.87,
+            "escape_velocity_km_s": 10.36,
+            "rotation_period_days": -243.02,
+            "axial_tilt_deg": 177.4
+        },
+        "orbital_data": {
+            "position_from_sun": 2,
+            "distance_from_sun_au": 0.723,
+            "distance_from_sun_km": 108200000,
+            "orbital_period_years": 0.615,
+            "orbital_speed_km_s": 35.0,
+            "orbital_eccentricity": 0.007,
+            "orbital_inclination_deg": 3.39
+        },
+        "atmosphere": {
+            "type": "dense CO2 atmosphere",
+            "composition": {
+                "carbon_dioxide": "96.5%",
+                "nitrogen": "3.5%",
+                "trace_gases": "sulfur dioxide, argon, water vapor"
+            },
+            "surface_pressure_atm": 92,
+            "temperature_range_c": {
+                "min": 462,
+                "max": 465
+            },
+            "notable_features": "Hottest planet in the solar system due to runaway greenhouse effect; rotates retrograde (backwards); thick sulfuric acid clouds; winds up to 360 km/h at cloud level"
+        },
+        "moons": {
+            "count": 0,
+            "list": []
+        }
+    },
+    {
+        "id": "earth",
+        "name": "Earth",
+        "type": "planet",
+        "subtype": "terrestrial",
+        "physical_properties": {
+            "mass_kg": 5.972e+24,
+            "diameter_km": 12756,
+            "density_g_cm3": 5.51,
+            "gravity_m_s2": 9.81,
+            "escape_velocity_km_s": 11.19,
+            "rotation_period_days": 1.0,
+            "axial_tilt_deg": 23.44
+        },
+        "orbital_data": {
+            "position_from_sun": 3,
+            "distance_from_sun_au": 1.0,
+            "distance_from_sun_km": 149600000,
+            "orbital_period_years": 1.0,
+            "orbital_speed_km_s": 29.8,
+            "orbital_eccentricity": 0.017,
+            "orbital_inclination_deg": 0.0
+        },
+        "atmosphere": {
+            "type": "nitrogen-oxygen atmosphere",
+            "composition": {
+                "nitrogen": "78%",
+                "oxygen": "21%",
+                "argon": "0.93%",
+                "carbon_dioxide": "0.04%",
+                "other": "trace"
+            },
+            "surface_pressure_atm": 1.0,
+            "temperature_range_c": {
+                "min": -89,
+                "max": 58,
+                "average": 15
+            },
+            "notable_features": "Only known planet with life; liquid water oceans cover 71% of surface; protective magnetosphere deflects solar wind; ozone layer absorbs UV radiation"
+        },
+        "moons": {
+            "count": 1,
+            "list": [
+                {
+                    "name": "Moon",
+                    "diameter_km": 3474,
+                    "mass_kg": 7.342e+22,
+                    "distance_from_planet_km": 384400,
+                    "orbital_period_days": 27.32,
+                    "notable_features": "Largest moon relative to its planet in the solar system; tidally locked to Earth; heavily cratered; no atmosphere; has water ice at poles; origin likely a giant impact event"
+                }
+            ]
+        }
+    },
+    {
+        "id": "mars",
+        "name": "Mars",
+        "type": "planet",
+        "subtype": "terrestrial",
+        "physical_properties": {
+            "mass_kg": 6.39e+23,
+            "diameter_km": 6779,
+            "density_g_cm3": 3.93,
+            "gravity_m_s2": 3.72,
+            "escape_velocity_km_s": 5.03,
+            "rotation_period_days": 1.025,
+            "axial_tilt_deg": 25.19
+        },
+        "orbital_data": {
+            "position_from_sun": 4,
+            "distance_from_sun_au": 1.524,
+            "distance_from_sun_km": 227900000,
+            "orbital_period_years": 1.881,
+            "orbital_speed_km_s": 24.1,
+            "orbital_eccentricity": 0.093,
+            "orbital_inclination_deg": 1.85
+        },
+        "atmosphere": {
+            "type": "thin CO2 atmosphere",
+            "composition": {
+                "carbon_dioxide": "95.3%",
+                "nitrogen": "2.7%",
+                "argon": "1.6%",
+                "oxygen": "0.13%",
+                "other": "trace"
+            },
+            "surface_pressure_atm": 0.006,
+            "temperature_range_c": {
+                "min": -125,
+                "max": 20,
+                "average": -60
+            },
+            "notable_features": "Largest volcano in the solar system (Olympus Mons, 22 km high); longest canyon system (Valles Marineris, 4000 km); dust storms can engulf the entire planet; evidence of ancient liquid water"
+        },
+        "moons": {
+            "count": 2,
+            "list": [
+                {
+                    "name": "Phobos",
+                    "diameter_km": 22.4,
+                    "mass_kg": 1.0659e+16,
+                    "distance_from_planet_km": 9376,
+                    "orbital_period_days": 0.319,
+                    "notable_features": "Closest moon to any planet; orbits faster than Mars rotates; doomed to crash into Mars in ~50 million years; heavily cratered with large Stickney crater"
+                },
+                {
+                    "name": "Deimos",
+                    "diameter_km": 12.4,
+                    "mass_kg": 1476200000000000.0,
+                    "distance_from_planet_km": 23458,
+                    "orbital_period_days": 1.263,
+                    "notable_features": "Smaller and smoother than Phobos; very low gravity; likely a captured asteroid; has a thin layer of fine regolith"
+                }
+            ]
+        }
+    },
+    {
+        "id": "jupiter",
+        "name": "Jupiter",
+        "type": "planet",
+        "subtype": "gas_giant",
+        "physical_properties": {
+            "mass_kg": 1.898e+27,
+            "diameter_km": 139820,
+            "density_g_cm3": 1.33,
+            "gravity_m_s2": 24.79,
+            "escape_velocity_km_s": 59.5,
+            "rotation_period_days": 0.414,
+            "axial_tilt_deg": 3.13
+        },
+        "orbital_data": {
+            "position_from_sun": 5,
+            "distance_from_sun_au": 5.203,
+            "distance_from_sun_km": 778500000,
+            "orbital_period_years": 11.86,
+            "orbital_speed_km_s": 13.1,
+            "orbital_eccentricity": 0.049,
+            "orbital_inclination_deg": 1.3
+        },
+        "atmosphere": {
+            "type": "deep hydrogen-helium atmosphere",
+            "composition": {
+                "hydrogen": "89%",
+                "helium": "10%",
+                "methane": "0.3%",
+                "ammonia": "0.026%",
+                "other": "trace"
+            },
+            "cloud_top_temperature_c": -145,
+            "core_temperature_c": 24000,
+            "notable_features": "Great Red Spot is a storm larger than Earth, ongoing for 350+ years; aurora at poles; rapid rotation causes visible cloud bands; no solid surface \u2014 gas transitions to liquid then metallic hydrogen at depth"
+        },
+        "moons": {
+            "count": 95,
+            "notable_moons": [
+                {
+                    "name": "Io",
+                    "diameter_km": 3643,
+                    "mass_kg": 8.932e+22,
+                    "distance_from_planet_km": 421700,
+                    "orbital_period_days": 1.769,
+                    "notable_features": "Most volcanically active body in the solar system; over 400 active volcanoes; volcanic plumes reach 500 km high; surface constantly resurfaced by lava flows"
+                },
+                {
+                    "name": "Europa",
+                    "diameter_km": 3122,
+                    "mass_kg": 4.8e+22,
+                    "distance_from_planet_km": 671100,
+                    "orbital_period_days": 3.551,
+                    "notable_features": "Covered in smooth water ice; suspected subsurface liquid ocean ~100 km deep; considered one of the best candidates for extraterrestrial life; crisscrossed by linear fractures"
+                },
+                {
+                    "name": "Ganymede",
+                    "diameter_km": 5268,
+                    "mass_kg": 1.4819e+23,
+                    "distance_from_planet_km": 1070400,
+                    "orbital_period_days": 7.155,
+                    "notable_features": "Largest moon in the solar system, bigger than Mercury; has its own magnetic field; subsurface saltwater ocean; mix of dark ancient terrain and lighter grooved regions"
+                },
+                {
+                    "name": "Callisto",
+                    "diameter_km": 4821,
+                    "mass_kg": 1.076e+23,
+                    "distance_from_planet_km": 1882700,
+                    "orbital_period_days": 16.69,
+                    "notable_features": "Most heavily cratered object in the solar system; very old unchanged surface; possible subsurface ocean; outside Jupiter's main radiation belts \u2014 safest of the Galilean moons"
+                }
+            ]
+        }
+    },
+    {
+        "id": "saturn",
+        "name": "Saturn",
+        "type": "planet",
+        "subtype": "gas_giant",
+        "physical_properties": {
+            "mass_kg": 5.683e+26,
+            "diameter_km": 116460,
+            "density_g_cm3": 0.69,
+            "gravity_m_s2": 10.44,
+            "escape_velocity_km_s": 35.5,
+            "rotation_period_days": 0.444,
+            "axial_tilt_deg": 26.73
+        },
+        "orbital_data": {
+            "position_from_sun": 6,
+            "distance_from_sun_au": 9.537,
+            "distance_from_sun_km": 1432000000,
+            "orbital_period_years": 29.46,
+            "orbital_speed_km_s": 9.7,
+            "orbital_eccentricity": 0.057,
+            "orbital_inclination_deg": 2.49
+        },
+        "atmosphere": {
+            "type": "deep hydrogen-helium atmosphere",
+            "composition": {
+                "hydrogen": "96%",
+                "helium": "3%",
+                "methane": "0.4%",
+                "ammonia": "trace",
+                "other": "trace"
+            },
+            "cloud_top_temperature_c": -178,
+            "core_temperature_c": 11700,
+            "notable_features": "Least dense planet \u2014 would float on water; spectacular ring system of ice and rock extending 282,000 km; hexagonal polar storm at north pole; periodic Great White Spot storms every ~30 years"
+        },
+        "moons": {
+            "count": 146,
+            "notable_moons": [
+                {
+                    "name": "Titan",
+                    "diameter_km": 5150,
+                    "mass_kg": 1.3452e+23,
+                    "distance_from_planet_km": 1221870,
+                    "orbital_period_days": 15.95,
+                    "notable_features": "Only moon with a dense atmosphere (mostly nitrogen); liquid methane lakes and rivers on surface; complex organic chemistry; haze-covered orange sky; Huygens probe landed there in 2005"
+                },
+                {
+                    "name": "Enceladus",
+                    "diameter_km": 504,
+                    "mass_kg": 1.08e+20,
+                    "distance_from_planet_km": 238020,
+                    "orbital_period_days": 1.37,
+                    "notable_features": "Geysers of water vapor and ice erupt from south pole; feeds Saturn's E ring; confirmed liquid water ocean beneath icy crust; organic molecules and hydrogen detected \u2014 strong candidate for life"
+                },
+                {
+                    "name": "Mimas",
+                    "diameter_km": 396,
+                    "mass_kg": 3.75e+19,
+                    "distance_from_planet_km": 185520,
+                    "orbital_period_days": 0.942,
+                    "notable_features": "Resembles the Death Star due to giant Herschel crater; mostly water ice; recently found to have a liquid water ocean beneath its surface"
+                },
+                {
+                    "name": "Iapetus",
+                    "diameter_km": 1469,
+                    "mass_kg": 1.806e+21,
+                    "distance_from_planet_km": 3560820,
+                    "orbital_period_days": 79.32,
+                    "notable_features": "Two-toned appearance \u2014 one hemisphere is pitch black, the other bright white; equatorial ridge up to 20 km high; tidally locked to Saturn"
+                }
+            ]
+        }
+    },
+    {
+        "id": "uranus",
+        "name": "Uranus",
+        "type": "planet",
+        "subtype": "ice_giant",
+        "physical_properties": {
+            "mass_kg": 8.681e+25,
+            "diameter_km": 50724,
+            "density_g_cm3": 1.27,
+            "gravity_m_s2": 8.87,
+            "escape_velocity_km_s": 21.3,
+            "rotation_period_days": -0.718,
+            "axial_tilt_deg": 97.77
+        },
+        "orbital_data": {
+            "position_from_sun": 7,
+            "distance_from_sun_au": 19.19,
+            "distance_from_sun_km": 2867000000,
+            "orbital_period_years": 84.01,
+            "orbital_speed_km_s": 6.8,
+            "orbital_eccentricity": 0.046,
+            "orbital_inclination_deg": 0.77
+        },
+        "atmosphere": {
+            "type": "hydrogen-helium-methane atmosphere",
+            "composition": {
+                "hydrogen": "83%",
+                "helium": "15%",
+                "methane": "2.3%"
+            },
+            "cloud_top_temperature_c": -224,
+            "notable_features": "Coldest planetary atmosphere in the solar system; rotates on its side \u2014 likely from an ancient massive collision; blue-green color from methane absorbing red light; faint ring system of 13 known rings"
+        },
+        "moons": {
+            "count": 28,
+            "notable_moons": [
+                {
+                    "name": "Miranda",
+                    "diameter_km": 472,
+                    "mass_kg": 6.59e+19,
+                    "distance_from_planet_km": 129900,
+                    "orbital_period_days": 1.413,
+                    "notable_features": "Has Verona Rupes \u2014 a cliff up to 20 km high, the tallest known in the solar system; chaotic patchwork terrain suggesting violent geological history"
+                },
+                {
+                    "name": "Ariel",
+                    "diameter_km": 1158,
+                    "mass_kg": 1.35e+21,
+                    "distance_from_planet_km": 190900,
+                    "orbital_period_days": 2.52,
+                    "notable_features": "Brightest of Uranus's moons; complex system of valleys and scarps; relatively young surface with few craters"
+                },
+                {
+                    "name": "Titania",
+                    "diameter_km": 1578,
+                    "mass_kg": 3.527e+21,
+                    "distance_from_planet_km": 435910,
+                    "orbital_period_days": 8.706,
+                    "notable_features": "Largest moon of Uranus; Messina Chasma is one of the largest canyons in the solar system; mix of old cratered and younger smooth terrain"
+                },
+                {
+                    "name": "Oberon",
+                    "diameter_km": 1522,
+                    "mass_kg": 3.014e+21,
+                    "distance_from_planet_km": 583520,
+                    "orbital_period_days": 13.46,
+                    "notable_features": "Outermost large moon of Uranus; heavily cratered ancient surface; some craters have bright ray systems; Othello crater has a dark floor possibly from ancient volcanic activity"
+                }
+            ]
+        }
+    },
+    {
+        "id": "neptune",
+        "name": "Neptune",
+        "type": "planet",
+        "subtype": "ice_giant",
+        "physical_properties": {
+            "mass_kg": 1.024e+26,
+            "diameter_km": 49244,
+            "density_g_cm3": 1.64,
+            "gravity_m_s2": 11.15,
+            "escape_velocity_km_s": 23.5,
+            "rotation_period_days": 0.671,
+            "axial_tilt_deg": 28.32
+        },
+        "orbital_data": {
+            "position_from_sun": 8,
+            "distance_from_sun_au": 30.07,
+            "distance_from_sun_km": 4495000000,
+            "orbital_period_years": 164.8,
+            "orbital_speed_km_s": 5.4,
+            "orbital_eccentricity": 0.01,
+            "orbital_inclination_deg": 1.77
+        },
+        "atmosphere": {
+            "type": "hydrogen-helium-methane atmosphere",
+            "composition": {
+                "hydrogen": "80%",
+                "helium": "19%",
+                "methane": "1.5%"
+            },
+            "cloud_top_temperature_c": -218,
+            "notable_features": "Strongest winds in the solar system \u2014 up to 2100 km/h; Great Dark Spot (transient storm system) observed by Voyager 2; emits more heat than it receives from the Sun; vivid blue color from methane"
+        },
+        "moons": {
+            "count": 16,
+            "notable_moons": [
+                {
+                    "name": "Triton",
+                    "diameter_km": 2707,
+                    "mass_kg": 2.14e+22,
+                    "distance_from_planet_km": 354759,
+                    "orbital_period_days": -5.877,
+                    "notable_features": "Only large moon in the solar system with a retrograde orbit \u2014 strongly suggests it was captured from the Kuiper Belt; geologically active with nitrogen geysers; will eventually be torn apart by Neptune's gravity in ~3.6 billion years"
+                },
+                {
+                    "name": "Nereid",
+                    "diameter_km": 340,
+                    "mass_kg": 3.1e+19,
+                    "distance_from_planet_km": 5513400,
+                    "orbital_period_days": 360.13,
+                    "notable_features": "Highly eccentric orbit \u2014 one of the most elliptical of any moon; likely a former regular moon disrupted by Triton's capture; irregular shaped body"
+                }
+            ]
+        }
+    }
+]
