@@ -56,9 +56,9 @@ def initialize_chatbot():
         "C:\\Users\\adars\\Desktop\\pograming\\Ragchatbot\\nova_faq_dataset.pdf",
         "C:\\Users\\adars\\Desktop\\pograming\\Ragchatbot\\solar_system_improved.json",
         "C:\\Users\\adars\\Desktop\\pograming\\Ragchatbot\\earth_geography_improved.json",
-        "C:\\Users\\adars\\Desktop\\pograming\\Ragchatbot\\novaspark_improved.json",
-        "C:\\Users\\adars\\Desktop\\pograming\\Ragchatbot\\product_launches_improved.json",
-        "C:\\Users\\adars\\Desktop\\pograming\\Ragchatbot\\chatbot_dataset_improved.json"
+        "C:\\Users\\adars\\Desktop\\pograming\\Ragchatbot\\novaspark_clean.json",
+        "C:\\Users\\adars\\Desktop\\pograming\\Ragchatbot\\product_launches_clean.json",
+        "C:\\Users\\adars\\Desktop\\pograming\\Ragchatbot\\chatbot_dataset_clean.json"
     ]
     
     chatbot = SimpleNoveChatbot()
